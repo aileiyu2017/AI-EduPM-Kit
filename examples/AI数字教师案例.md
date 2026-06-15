@@ -374,6 +374,6 @@ RAG的效果天花板在知识库。投入50%精力在知识库构建上：
 
 ## 相关阅读
 
-- [RAG应用设计Checklist](../docs/rag-checklist.md) — 完整的设计检查清单
-- [AI产品评估框架](../docs/assessment-framework.md) — 7维度评估
+- [RAG应用设计Checklist](../docs/RAG设计清单.md) — 完整的设计检查清单
+- [AI产品评估框架](../docs/AI产品评估框架.md) — 7维度评估
 - [人机协同设计模式](../docs/人机协同设计模式.md) — 模式4（实时反馈）的详细说明
