@@ -83,8 +83,9 @@ AI知识检索 → AI信息召回 + 人工综合判断
 
 ### 6. 实战案例 [→ 查看](examples/)
 
-- [教学质量诊断系统](examples/case-teaching-diagnosis.md) — 诊断型AI的完整产品设计
-- [AI数字教师](examples/case-digital-teacher.md) — RAG在教育场景的落地实践
+- [教学质量诊断系统](examples/case-teaching-diagnosis.md) — 诊断型AI的完整产品设计（含系统架构图+踩坑记录）
+- [AI数字教师](examples/case-digital-teacher.md) — RAG在教育场景的落地实践（含效果对比数据+交互示例）
+- [世界500强企业培训平台](examples/case-training-platform.md) — 跨国多角色高复杂度系统设计（含合规与权限架构）
 
 ---
 
@@ -94,7 +95,7 @@ AI知识检索 → AI信息召回 + 人工综合判断
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/aileiyu2017/EduPM-Kit.git
+git clone https://github.com/aileiyu2017/AI-EduPM-Kit.git
 
 # 2. 使用评估框架对你的产品进行7维度评估
 # 打开 docs/assessment-framework.md，逐项打分
@@ -163,7 +164,7 @@ git clone https://github.com/aileiyu2017/EduPM-Kit.git
 
 ## 关于作者
 
-**LeiYu** — 高级产品经理，专注AI在高校/政务等强约束场景的落地
+**夏雷雨** — 高级产品经理，专注AI在高校/政务等强约束场景的落地
 
 | 成果 | 数据 |
 |------|------|
