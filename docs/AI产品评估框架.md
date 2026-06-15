@@ -312,5 +312,5 @@
 ## 相关阅读
 
 - [RAG应用设计Checklist](rag-checklist.md)
-- [人机协同设计模式](human-ai-patterns.md)
-- [教学质量诊断案例](../examples/case-teaching-diagnosis.md)
+- [人机协同设计模式](人机协同设计模式.md)
+- [教学质量诊断案例](../examples/教学质量诊断案例.md)
