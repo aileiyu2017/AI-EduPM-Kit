@@ -28,23 +28,25 @@
 
 ---
 
-## Phase 2：案例深化（本周 → 两周内）
+## Phase 2：案例深化 ✅ 已完成
 
-### P2-1 教学质量诊断案例丰满
-- [ ] `examples/case-teaching-diagnosis.md` 增加系统架构图（Mermaid）
-- [ ] 补充关键决策的 trade-off 分析（为什么选A不选B）
-- [ ] 增加踩坑细节的"血泪史"部分（面试时最有价值的谈资）
+### P2-1 教学质量诊断案例丰满 ✅
+- [x] `examples/case-teaching-diagnosis.md` 增加系统架构图（Mermaid，2个图）
+- [x] 补充关键决策的 trade-off 分析（3个决策，含对比表格和事后验证）
+- [x] 增加踩坑细节的"血泪史"部分（3个坑，含技术细节和解决过程）
+- **成果**：153行 → 377行（+224行）
 
-### P2-2 AI数字教师案例丰满
-- [ ] `examples/case-digital-teacher.md` 增加技术架构图
-- [ ] 补充 RAG 效果对比数据（有/无 RAG 的差异）
-- [ ] 增加问答交互的截图示意（用文字描述）
+### P2-2 AI数字教师案例丰满 ✅
+- [x] `examples/case-digital-teacher.md` 增加技术架构图（Mermaid，2个图）
+- [x] 补充 RAG 效果对比数据（有/无RAG对比+检索策略对比，2张表格）
+- [x] 增加问答交互示例（3个典型场景：标准/边界/追问）
+- **成果**：247行 → 379行（+132行）
 
-### P2-3 新增案例（可选）
-- [ ] `examples/case-training-platform.md` — 世界500强企业供应商培训平台（非AI但高复杂度）
-- [ ] `examples/case-government-insight.md` — 政务数据洞察平台
+### P2-3 新增案例 ✅
+- [x] `examples/case-training-platform.md` — 世界500强企业供应商培训平台（215行，全新）
+- [ ] `examples/case-government-insight.md` — 政务数据洞察平台（Phase 3）
 
-**Phase 2 完成标准**：案例经得起面试官追问 10 分钟。
+**Phase 2 完成标准**：案例经得起面试官追问 10 分钟。 ✅
 
 ---
 
