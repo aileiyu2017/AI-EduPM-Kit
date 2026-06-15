@@ -820,7 +820,7 @@ AI不能：
 ### 10.2 参考文档
 
 - [AI产品评估框架](../docs/assessment-framework.md)
-- [人机协同设计模式](../docs/human-ai-patterns.md)
+- [人机协同设计模式](../docs/人机协同设计模式.md)
 
 <details>
 <summary>💡 填写示例</summary>
@@ -830,7 +830,7 @@ AI不能：
 | 文档名称 | 路径 | 用途 | 适用角色 |
 |----------|------|------|----------|
 | AI产品评估框架 | ../docs/assessment-framework.md | 7维度评估方法指导 | 产品经理、AI科学家 |
-| 人机协同设计模式 | ../docs/human-ai-patterns.md | 人机协同模式选型参考 | 产品经理、设计师 |
+| 人机协同设计模式 | ../docs/人机协同设计模式.md | 人机协同模式选型参考 | 产品经理、设计师 |
 | 教育数据安全管理规范 | 校内规范文件 | 数据安全合规依据 | 产品经理、安全工程师 |
 | 用户研究报告（督导） | ../research/supervisor-ur.pdf | 督导用户洞察 | 产品经理、设计师 |
 | 竞品分析报告 | ../research/competitor-analysis.pdf | 国内外同类产品对标 | 产品经理 |
