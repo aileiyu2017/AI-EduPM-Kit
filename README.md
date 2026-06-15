@@ -158,7 +158,7 @@ git clone https://github.com/aileiyu2017/AI-EduPM-Kit.git
 - 新的实战案例
 - 改进现有文档
 
-详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+详见 [贡献指南](贡献指南.md)。
 
 ---
 
