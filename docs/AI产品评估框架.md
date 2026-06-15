@@ -311,6 +311,6 @@
 
 ## 相关阅读
 
-- [RAG应用设计Checklist](rag-checklist.md)
+- [RAG应用设计Checklist](RAG设计清单.md)
 - [人机协同设计模式](人机协同设计模式.md)
 - [教学质量诊断案例](../examples/教学质量诊断案例.md)
